@@ -1,6 +1,6 @@
 
       $(document).ready(function() {
-        $("p").click(function() {
+        $(".clickable").click(function() {
           $(".walrusshowing").toggle();
           $(".walrushidden").toggle();
         });

@@ -1,3 +1,10 @@
 .walrusshowing {
   display: none;
 }
+.clickable{ cursor : pointer;
+  column : red;
+
+}
+.clickable:hover {
+  text-decoration: underline;
+}
