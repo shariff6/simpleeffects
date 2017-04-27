@@ -8,3 +8,20 @@
 .clickable:hover {
   text-decoration: underline;
 }
+.clock {
+  cursor :pointer;
+}
+.hiddenclock {
+  display: none;
+}
+.hidecake {
+display: none;
+}
+.press {
+  cursor:pointer;
+}
+.hahaha {
+display: none;}
+.money{
+  cursor: pointer;
+}
